@@ -2,7 +2,7 @@
 🎬 Seaborn & Linear Regression Movie Analysis
 This project explores and visualizes movie data using Seaborn and applies Linear Regression to examine the relationship between production budgets and worldwide gross revenue. The goal is to uncover trends, outliers, and actionable insights from historical movie data, ideal for data science learning and business analytics.
 
-🧩 Project Objectives
+Project Objectives
 Analyze the relationship between production budgets and global box office revenue
 
 Identify trends in budget allocation and movie profitability over time
