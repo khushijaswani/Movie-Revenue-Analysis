@@ -17,6 +17,8 @@ Apply linear regression to evaluate predictive trends in revenue
 
 
 📁 Data Source
+
+
 The dataset consists of the following key columns:
 
 Release_Date: Year and date of release
