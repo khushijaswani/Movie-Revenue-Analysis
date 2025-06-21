@@ -1,76 +1,82 @@
 # Movie-revenue-analysis
-🎬 Seaborn & Linear Regression on Movie Budget & Revenue Data
-This project uses Seaborn and Linear Regression to explore and analyze movie datasets with a focus on understanding the relationship between production budgets and worldwide gross revenue.
+🎬 Seaborn & Linear Regression Movie Analysis
+This project explores and visualizes movie data using Seaborn and applies Linear Regression to examine the relationship between production budgets and worldwide gross revenue. The goal is to uncover trends, outliers, and actionable insights from historical movie data, ideal for data science learning and business analytics.
 
-📌 Overview
-📊 Visualizes movie budget and revenue trends over the years
+🧩 Project Objectives
+Analyze the relationship between production budgets and global box office revenue
 
-🔎 Uses regression plots to analyze correlation between budget and gross income
+Identify trends in budget allocation and movie profitability over time
 
-🧼 Filters and analyzes anomalies like movies with $0 worldwide gross
+Explore outliers such as movies with high budgets and $0 gross
 
-💬 Answers key analytical questions using Pandas, Seaborn & Matplotlib
+Visualize insights using clear and aesthetically pleasing plots
 
-🧠 Key Topics Covered
-Scatter plots and color-encoded metrics (hue, palette, etc.)
+Apply linear regression to evaluate predictive trends in revenue
 
-Linear regression models using sns.regplot
+📁 Data Source
+The dataset consists of the following key columns:
 
-Trend detection and distribution patterns
+Release_Date: Year and date of release
 
-Data wrangling for exploratory data analysis (EDA)
+Movie_Title: Title of the film
 
-📷 Sample Outputs
-🔘 Budget vs. Year with Gross Hue
+USD_Production_Budget: Total production cost
 
-❌ Films with $0 Worldwide Gross
+USD_Worldwide_Gross: Global earnings
 
-📈 Seaborn Regression Plot
+USD_Domestic_Gross: U.S. earnings
 
-📂 Files Included
-File Name	Description
-Seaborn_and_Linear_Regression_(complete).ipynb	Jupyter Notebook with full EDA, visualizations, and regression analysis
-Screenshot (35).png	Bubble chart showing gross revenue color coded by year
-Screenshot (36).png	Table showing movies that grossed $0 internationally
-Screenshot (37).png	Regression plot analyzing budget vs. revenue
+Additional metadata for filtering and categorization
 
-⚙️ Installation & Setup
-Requirements:
-Python 3.x
+All data was loaded, cleaned, and analyzed in a Jupyter Notebook using Python.
 
-Jupyter or Google Colab
+🔧 Tools & Technologies
+Python (Pandas, NumPy): Data loading, transformation
 
-Libraries:
+Seaborn & Matplotlib: Exploratory and regression visualizations
 
-bash
-Copy
-Edit
-pip install pandas seaborn matplotlib scikit-learn
-Run the Notebook:
-Clone this repo:
+Scikit-learn: Linear regression modeling
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/seaborn-linear-regression.git
-cd seaborn-linear-regression
-Launch the notebook:
+Google Colab: Development and analysis environment
 
-bash
-Copy
-Edit
-jupyter notebook Seaborn_and_Linear_Regression_(complete).ipynb
-or open in Google Colab.
+📈 Key Insights
+🍿 Most Expensive Flop: Singularity with $175M budget and $0 return
 
-📊 Analysis Example
-Q: How many films had $0 worldwide gross?
-A: 357 movies.
-Top ones include:
+🧨 Total Films with $0 Gross: 357 (including Aquaman, A Wrinkle in Time)
 
-Singularity ($175M budget)
+🕗 Trend: Increased budgets and returns post-2000
 
-Aquaman ($160M budget)
+📉 Observation: Many high-budget films didn’t perform well globally
 
-🧑‍💻 Author
+📊 Linear Regression: Shows moderate positive correlation between budget and revenue
+
+📊 Dashboard Features
+Bubble Plot: Budget vs. Year with hue representing revenue
+
+Top Loss-Making Movies: High-budget films with $0 gross
+
+Seaborn Regression Plot: Predictive relationship between budget and gross
+
+Trend Analysis: Spending vs. success over decades
+
+🖼️ Visual Snapshots
+🎯 Budget vs. Year with Gross Hue
+
+🚫 Movies with $0 Worldwide Gross
+
+📉 Linear Regression Plot
+
+🚀 Future Enhancements
+Incorporate genre, director, and studio-level analysis
+
+Use multiple regression for deeper insights
+
+Predict profitability using machine learning models
+
+Visualize ROI (Return on Investment) by decade
+
+📬 Contact
+Khushi Jaswani
+📧 khushijaswani64@gmail.com
 
 
