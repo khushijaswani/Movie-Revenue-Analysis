@@ -38,6 +38,8 @@ All data was loaded, cleaned, and analyzed in a Jupyter Notebook using Python.
 
 
 🔧 Tools & Technologies
+
+
 Python (Pandas, NumPy): Data loading, transformation
 
 Seaborn & Matplotlib: Exploratory and regression visualizations
@@ -49,6 +51,8 @@ Google Colab: Development and analysis environment
 
 
 📈 Key Insights
+
+
 🍿 Most Expensive Flop: Singularity with $175M budget and $0 return
 
 🧨 Total Films with $0 Gross: 357 (including Aquaman, A Wrinkle in Time)
@@ -62,6 +66,8 @@ Google Colab: Development and analysis environment
 
 
 📊 Dashboard Features
+
+
 Bubble Plot: Budget vs. Year with hue representing revenue
 
 Top Loss-Making Movies: High-budget films with $0 gross
@@ -71,6 +77,8 @@ Seaborn Regression Plot: Predictive relationship between budget and gross
 Trend Analysis: Spending vs. success over decades
 
 🖼️ Visual Snapshots
+
+
 🎯 Budget vs. Year with Gross Hue
 ![Screenshot (36)](https://github.com/user-attachments/assets/da6738b7-8e80-4a96-8849-16eeff261cd1)
 
@@ -84,6 +92,8 @@ Trend Analysis: Spending vs. success over decades
 ![Screenshot (37)](https://github.com/user-attachments/assets/4ddebba9-de84-41af-9670-43bae1938e38)
 
 🚀 Future Enhancements
+
+
 Incorporate genre, director, and studio-level analysis
 
 Use multiple regression for deeper insights
