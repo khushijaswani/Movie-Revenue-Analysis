@@ -13,6 +13,8 @@ Visualize insights using clear and aesthetically pleasing plots
 
 Apply linear regression to evaluate predictive trends in revenue
 
+
+
 📁 Data Source
 The dataset consists of the following key columns:
 
@@ -30,6 +32,8 @@ Additional metadata for filtering and categorization
 
 All data was loaded, cleaned, and analyzed in a Jupyter Notebook using Python.
 
+
+
 🔧 Tools & Technologies
 Python (Pandas, NumPy): Data loading, transformation
 
@@ -38,6 +42,8 @@ Seaborn & Matplotlib: Exploratory and regression visualizations
 Scikit-learn: Linear regression modeling
 
 Google Colab: Development and analysis environment
+
+
 
 📈 Key Insights
 🍿 Most Expensive Flop: Singularity with $175M budget and $0 return
@@ -49,6 +55,8 @@ Google Colab: Development and analysis environment
 📉 Observation: Many high-budget films didn’t perform well globally
 
 📊 Linear Regression: Shows moderate positive correlation between budget and revenue
+
+
 
 📊 Dashboard Features
 Bubble Plot: Budget vs. Year with hue representing revenue
@@ -64,6 +72,8 @@ Trend Analysis: Spending vs. success over decades
 
 🚫 Movies with $0 Worldwide Gross
 
+
+
 📉 Linear Regression Plot
 
 🚀 Future Enhancements
@@ -74,6 +84,7 @@ Use multiple regression for deeper insights
 Predict profitability using machine learning models
 
 Visualize ROI (Return on Investment) by decade
+
 
 📬 Contact
 Khushi Jaswani
