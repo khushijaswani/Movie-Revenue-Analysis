@@ -69,12 +69,16 @@ Trend Analysis: Spending vs. success over decades
 
 🖼️ Visual Snapshots
 🎯 Budget vs. Year with Gross Hue
+![Screenshot (36)](https://github.com/user-attachments/assets/da6738b7-8e80-4a96-8849-16eeff261cd1)
+
 
 🚫 Movies with $0 Worldwide Gross
 
+![Screenshot (35)](https://github.com/user-attachments/assets/7e22d1a1-c1a8-4906-9161-d693f15713e2)
 
 
 📉 Linear Regression Plot
+![Screenshot (37)](https://github.com/user-attachments/assets/4ddebba9-de84-41af-9670-43bae1938e38)
 
 🚀 Future Enhancements
 Incorporate genre, director, and studio-level analysis
